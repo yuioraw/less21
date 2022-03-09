@@ -18,7 +18,7 @@ public class TestForm {
         //открываем страницу с формой в браузере
         open("https://demoqa.com/automation-practice-form");
         //заполняем текстовое поле имя
-        $("#firstName").setValue("Andrey");
+        $("#firstName").setValue("Ivan");
         //заполняем текстовое поле фамилия
         $("#lastName").setValue("Telezhenko");
         //заполняем текстовое поле эл.адреса
