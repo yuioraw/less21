@@ -22,7 +22,7 @@ public class TestForm {
         //заполняем текстовое поле фамилия
         $("#lastName").setValue("Ivanov");
         //заполняем текстовое поле эл.адреса
-        $("#userEmail").setValue("andrey@telezhenko.ru");
+        $("#userEmail").setValue("ivan@ivanov.ru");
         //кликаем на радоио-батн
         //$("[for='gender-radio-2']").click();
         $(byText("Male")).click();
