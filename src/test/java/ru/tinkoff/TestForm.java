@@ -20,7 +20,7 @@ public class TestForm {
         //заполняем текстовое поле имя
         $("#firstName").setValue("Ivan");
         //заполняем текстовое поле фамилия
-        $("#lastName").setValue("Telezhenko");
+        $("#lastName").setValue("Ivanov");
         //заполняем текстовое поле эл.адреса
         $("#userEmail").setValue("andrey@telezhenko.ru");
         //кликаем на радоио-батн
